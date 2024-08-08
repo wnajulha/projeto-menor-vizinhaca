@@ -9,5 +9,5 @@ Funcionalidades:
 * Cálculo do tamanho total de cada cidade.
 * Identificação da cidade com o menor tamanho.
 
-* - C
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.png)
     
